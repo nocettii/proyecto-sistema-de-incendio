@@ -15,7 +15,6 @@ class SistemaIncendio:
         print(">> Mensaje en Repetidores: PROCEDER A LA EVACUACIÓN.")
         print("-----------------------------\n")
 
-# --- Simulación Interactiva ---
 central = SistemaIncendio()
 
 print("Panel de Control del Espacio Común")
